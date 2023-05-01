@@ -29,7 +29,7 @@ Click on AddAllFilesToCart (...600 files will be added)
 
 Click on Manifest to download the manifest txt file
 
-Rename it to 'manifest.txt' and move it into DataMiner folder
+Rename it to 'manifest.txt' and move it into the project's folder
 
 ## Download files
 
